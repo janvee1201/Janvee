@@ -11,8 +11,7 @@
 <a href="mailto:jnveesahu99@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=janvee1201&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+
 
 <br/><br/>
 
