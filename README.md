@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Janvee</h1>
-<h3 align="center">Machine Learning Engineer | Building Intelligent Systems with AI & Data</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;LLM+%26+AI+Enthusiast;Building+Real+World+AI+Systems&center=true&width=500&height=45">
+</p>
+
 
 ---
 
