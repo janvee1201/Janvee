@@ -25,7 +25,7 @@
 ## 🧬 About Me
 
 ```python
-class JanveeSahu:
+class Janvee:
     def __init__(self):
         self.role        = "Machine Learning Engineer"
         self.education   = "B.Tech CSE (AI) @ PSIT"
@@ -37,7 +37,7 @@ class JanveeSahu:
     def say_hi(self):
         print("Thanks for stopping by! Let's build something incredible together 🚀")
 
-me = JanveeSahu()
+me = Janvee()
 me.say_hi()
 ```
 
