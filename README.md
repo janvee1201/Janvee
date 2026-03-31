@@ -1,39 +1,50 @@
-# Hi 👋, I'm Janvee
+<h1 align="center">Hi 👋, I'm Janvee</h1>
+<h3 align="center">Machine Learning Engineer | Building Intelligent Systems with AI & Data</h3>
 
-ML Developer | Building intelligent systems with data & AI
+---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE (AI)
-- 🤖 Interested in ML, Deep Learning, LLMs
-- 🧠 Built RAG chatbot & anomaly detection system<h1 align="center">Hi 👋, I'm Janvee</h1>
-<h3 align="center">ML Engineer | Building Intelligent Systems with AI & Data</h3>
-
+- 🎓 B.Tech CSE (AI) @ PSIT  
+- 🤖 Focused on Machine Learning, Deep Learning & LLM systems  
+- 🧠 Built real-world AI solutions using RAG and transformer-based models  
+- ⚡ Interested in solving complex, unstructured data problems  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+**Languages:**  
+Python | C++   
 
+**ML & AI:**  
+Machine Learning | PyTorch | Transformers | NLP | RAG  | Agentic AI | GenAI
 
-### ML & AI
-
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
-![LangChain](https://img.shields.io/badge/LangChain-black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-green)
+**Backend & Tools:**  
+FastAPI | Node.js | Langraph | Git | LangChain  
 
 ---
 
 ## 🔥 Projects
-- 🧠 **AnomVisor** – Hyperspectral anomaly detection system  
-- 🤖 **DocuMind AI** – RAG-based document chatbot  
-- 🚀 **AuditPilot** – AI-powered audit system  
+
+### 🧠 AnomVisor — Hyperspectral Anomaly Detection
+- Built end-to-end pipeline using PCA, Autoencoders, Transformers & SVM  
+- Achieved ~98% accuracy on benchmark datasets  
+- Reduced inference time by ~30% with optimized pipeline  
+- Real-time visualization using React + Flask  
+
+---
+
+### 🤖 DocuMind AI — RAG-based Document Chatbot
+- Developed semantic search using LangChain + FAISS  
+- Improved response relevance & reduced hallucination  
+- Designed scalable document ingestion pipeline  
+
+---
+
+### 🚀 AuditPilot — AI-powered Audit System
+- Built intelligent system for automated audit workflows  
+- Integrated backend APIs with AI-driven analysis  
+- Focused on efficiency, scalability, and real-world usability  
 
 ---
 
@@ -43,7 +54,5 @@ ML Developer | Building intelligent systems with data & AI
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: <h1 align="center">Hi 👋, I'm Janvee</h1>
-<h3 align="center">ML Engineer | Building Intelligent Systems with AI & Data</h3>
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/janvee-sahu-58357828b/)
+📧 jnveesahu99@gmail.com
