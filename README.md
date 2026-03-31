@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Janvee%20Sahu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Janvee&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
 <br/>
 
@@ -22,24 +22,15 @@
 
 ---
 
+
 ## 🧬 About Me
 
-```python
-class Janvee:
-    def __init__(self):
-        self.role        = "Machine Learning Engineer"
-        self.education   = "B.Tech CSE (AI) @ PSIT"
-        self.focus       = ["LLM Systems", "RAG Pipelines", "Deep Learning", "Agentic AI"]
-        self.superpower  = "Transforming unstructured chaos → intelligent systems"
-        self.currently   = "Building scalable AI solutions for real-world problems"
-        self.interests   = ["Hyperspectral Imaging", "Transformer Architectures", "AI Agents"]
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something incredible together 🚀")
-
-me = Janvee()
-me.say_hi()
-```
+- 💼 Role: Machine Learning Engineer  
+- 🎓 Education: B.Tech CSE (AI) @ PSIT  
+- 🧠 Focus: LLM Systems, RAG Pipelines, Deep Learning, Agentic AI  
+- ⚡ Strength: Transforming unstructured data into intelligent systems  
+- 🚀 Currently: Building scalable AI solutions for real-world problems  
+- 🔍 Interests: Hyperspectral Imaging, Transformer Architectures, AI Agents  
 
 ---
 
@@ -127,39 +118,8 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=janvee1201&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janvee1201&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=janvee1201&theme=tokyonight&border_radius=12" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=janvee1201&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&radius=12" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=janvee1201&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=false&no-frame=false" />
-
-</div>
-
----
 
 ## 💡 What I'm Working On
 
