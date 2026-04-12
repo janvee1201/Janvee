@@ -24,7 +24,7 @@
 
 ## 🧬 About Me
 
-- 💼 Role: Machine Learning Engineer  
+- 💼 Role: Machine Learning Enthusiast 
 - 🎓 Education: B.Tech CSE (AI) @ PSIT  
 - 🧠 Focus: LLM Systems, RAG Pipelines, Deep Learning, Agentic AI  
 - ⚡ Strength: Transforming unstructured data into intelligent systems  
