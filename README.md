@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Applications+🤖;Machine+Learning+%7C+Computer+Vision;Turning+Data+into+Intelligent+Solutions+⚡;B.Tech+CSE+(AI)+@+PSIT+🎓" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Applications;Machine+Learning+%7C+Computer+Vision;Turning+Data+into+Intelligent+Solutions;B.Tech+CSE+(AI)+at+PSIT" />
 
 </div>
 
@@ -34,41 +34,52 @@
 
 
 
+## 🛠 Tech Arsenal
+
 ### 🧠 AI / Machine Learning
 
-Python
-PyTorch
-scikit-learn
-NumPy
-Pandas
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 ### 👁 Computer Vision
 
-CNNs
-Transformers
-Image Processing
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image_Processing-0099CC?style=for-the-badge"/>
+</p>
 
 ### ⚙ Backend & Development
 
-
-FastAPI
-Node.js
-Git
-C++
-JavaScript
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ### 🛠 Tools
 
-GitHub
-VS Code
-Postman
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
-
+<div align="center">
 ## 📋 AuditPilot — AI-Powered Audit Automation
+</div>
 
 > Streamlining audit workflows using AI-assisted document analysis and intelligent automation.
 
@@ -88,9 +99,24 @@ Postman
 
 **Tech Stack**
 
-Node.js • Express • MongoDB • React • AI APIs
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=AI APIs"/>
+
+</p>
+
+</div>
+
+<br>
+<div align="center">
 
 ## 🌌 AnomVisor — Hyperspectral Anomaly Detection
+
+</div>
 
 > Deep learning pipeline for detecting anomalies in hyperspectral satellite imagery.
 
@@ -110,9 +136,23 @@ Node.js • Express • MongoDB • React • AI APIs
 
 **Tech Stack**
 
-Python • PyTorch • OpenCV • PCA • CNN • Transformers • SVM
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=Python"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Pytorch"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=OpenCV"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=PCA"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=CNN"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Transformers"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=SVM"/>
+
+</p>
+</div>
+<br>
+<div align="center">
 
 ## 🚦 QueueCTL — Smart Queue Management System
+</div>
 
 > Intelligent queue management platform designed to improve customer flow and reduce waiting time.
 
@@ -131,10 +171,20 @@ Python • PyTorch • OpenCV • PCA • CNN • Transformers • SVM
 
 **Tech Stack**
 
-Node.js • Express • MongoDB • React
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+
+</p>
+</div>
+<br>
+<div align="center">
 
 ## 🏡 NestMatch AI — Intelligent Property Recommendation
-
+</div>
 > AI-assisted property recommendation platform that matches user preferences with suitable listings.
 
 | Feature | Description |
@@ -152,7 +202,16 @@ Node.js • Express • MongoDB • React
 
 **Tech Stack**
 
-Python • Machine Learning • React • Node.js
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=Python"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=React"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Machine Learning"/>
+
+</p>
+</div>
+<br>
 
 ## 💡 Currently Exploring
 
