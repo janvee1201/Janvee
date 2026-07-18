@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Janvee&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Janvee&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20AI%20Applications&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
 <br/>
 
@@ -8,125 +8,163 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:jnveesahu99@gmail.com">
+<a href="mailto:janveesahu99@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Systems+%F0%9F%A4%96;LLM+%26+RAG+Architecture+Specialist+%F0%9F%A7%A0;Turning+Unstructured+Data+into+Intelligence+%E2%9A%A1;B.Tech+CSE+(AI)+%40+PSIT+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Applications+🤖;Machine+Learning+%7C+Computer+Vision;Turning+Data+into+Intelligent+Solutions+⚡;B.Tech+CSE+(AI)+@+PSIT+🎓" alt="Typing SVG" />
 
 </div>
+
+
 
 ---
 
 
 ## 🧬 About Me
 
-- 💼 Role: Machine Learning Enthusiast 
-- 🎓 Education: B.Tech CSE (AI) @ PSIT  
-- 🧠 Focus: LLM Systems, RAG Pipelines, Deep Learning, Agentic AI  
-- ⚡ Strength: Transforming unstructured data into intelligent systems  
-- 🚀 Currently: Building scalable AI solutions for real-world problems  
-- 🔍 Interests: GenAI, Transformer Architectures, AI Agents & Automation
-
+- 🎓 B.Tech in Computer Science (Artificial Intelligence) @ PSIT
+- 💻 Interested in Machine Learning, Computer Vision and AI-powered Applications
+- 🧠 Experienced with Deep Learning, Transformers, Image Processing and Backend Integration
+- 🚀 Passionate about building practical AI solutions for real-world problems
+- 🌱 Currently exploring scalable ML pipelines and intelligent automation
 ---
 
-## 🛠️ Tech Arsenal
 
-<div align="center">
 
-### 🧠 AI / ML Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 🧠 AI / Machine Learning
 
-### 🔗 LLM & Agents
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6D28D9?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0064FF?style=for-the-badge&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logoColor=white)
+Python
+PyTorch
+scikit-learn
+NumPy
+Pandas
 
-### ⚙️ Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 👁 Computer Vision
 
-</div>
+CNNs
+Transformers
+Image Processing
+
+### ⚙ Backend & Development
+
+
+FastAPI
+Node.js
+Git
+C++
+JavaScript
+
+### 🛠 Tools
+
+GitHub
+VS Code
+Postman
 
 ---
 
 ## 🔥 Featured Projects
 
-<div align="center">
 
-### 🌌 AnomVisor — Hyperspectral Anomaly Detection
+## 📋 AuditPilot — AI-Powered Audit Automation
 
-</div>
+> Streamlining audit workflows using AI-assisted document analysis and intelligent automation.
 
-> *End-to-end anomaly detection pipeline for hyperspectral imagery*
+| Feature | Description |
+|---------|-------------|
+| 🤖 AI Assistance | Automated audit insights and document analysis |
+| ⚙ Backend | REST APIs with scalable backend architecture |
+| 📄 Reports | Structured audit summaries and workflow management |
+| 🚀 Deployment | Fully deployed web application |
+
+**Highlights**
+
+- Built an end-to-end audit workflow platform.
+- Integrated AI-assisted document analysis into audit processes.
+- Designed responsive frontend with backend API integration.
+- Focused on reducing manual effort through intelligent automation.
+
+**Tech Stack**
+
+Node.js • Express • MongoDB • React • AI APIs
+
+## 🌌 AnomVisor — Hyperspectral Anomaly Detection
+
+> Deep learning pipeline for detecting anomalies in hyperspectral satellite imagery.
 
 | Metric | Result |
 |--------|--------|
-| 🎯 Accuracy | **~98%** on benchmark datasets |
-| ⚡ Speed | **~30% reduction** in inference time |
-| 🏗️ Stack | PCA · Autoencoders · Transformers · SVM · React · Flask |
+| 🎯 Accuracy | ~98% |
+| ⚡ Optimization | Reduced inference time by ~30% |
+| 📊 Visualization | Heatmaps & anomaly masks |
 
-**What makes it special:** Built a complete pipeline that processes raw hyperspectral bands, compresses them via PCA, reconstructs via autoencoders to detect anomalies, then classifies with SVM — with real-time visualization. End-to-end, production-ready, benchmarked.
+**Highlights**
 
----
+- Processed hyperspectral datasets using PCA-based dimensionality reduction.
+- Trained convolutional autoencoders for anomaly detection.
+- Used Transformer-based feature extraction.
+- Classified detected regions using SVM.
+- Generated anomaly heatmaps and visual outputs.
 
-<div align="center">
+**Tech Stack**
 
-### 🤖 DocuMind AI — RAG-based Document Intelligence
+Python • PyTorch • OpenCV • PCA • CNN • Transformers • SVM
 
-</div>
+## 🚦 QueueCTL — Smart Queue Management System
 
-> *Semantic document search and Q&A with reduced hallucination*
+> Intelligent queue management platform designed to improve customer flow and reduce waiting time.
 
-| Feature | Implementation |
-|---------|---------------|
-| 🔍 Search | Semantic retrieval via **LangChain + FAISS** |
-| 🧠 Intelligence | Hallucination-reduced LLM responses |
-| 📦 Pipeline | Scalable multi-format document ingestion |
+| Feature | Description |
+|---------|-------------|
+| 📈 Queue Monitoring | Real-time queue tracking |
+| 🧠 Intelligent Allocation | Automated queue prioritization |
+| 📊 Dashboard | Live analytics and performance insights |
 
-**What makes it special:** Moved beyond naive keyword search to true semantic retrieval — documents are chunked, embedded, and indexed for contextually accurate answers. Designed for scale.
+**Highlights**
 
----
+- Designed a digital queue management workflow.
+- Built dashboards for monitoring queue statistics.
+- Developed backend APIs for queue operations.
+- Improved service efficiency through automation.
 
-<div align="center">
+**Tech Stack**
 
-### 📋 AuditPilot — AI-powered Audit Automation
+Node.js • Express • MongoDB • React
 
-</div>
+## 🏡 NestMatch AI — Intelligent Property Recommendation
 
-> *Intelligent system for automated audit workflows*
+> AI-assisted property recommendation platform that matches user preferences with suitable listings.
 
-| Aspect | Detail |
-|--------|--------|
-| 🤖 Intelligence | AI-driven analysis integrated into audit pipelines |
-| 🔗 Integration | Backend APIs + AI decision engine |
-| 📈 Focus | Efficiency · Scalability · Real-world usability |
+| Feature | Description |
+|---------|-------------|
+| 🔍 Smart Search | Personalized property recommendations |
+| 🧠 AI Matching | Preference-based ranking |
+| 📊 Filtering | Multi-criteria search and comparison |
 
-**What makes it special:** Automates complex, manual audit workflows by embedding AI decision-making directly into backend processes — reducing human effort while improving consistency.
+**Highlights**
 
----
+- Developed intelligent recommendation logic.
+- Implemented dynamic filtering and ranking.
+- Built responsive user interface with backend integration.
+- Focused on improving property discovery experience.
 
+**Tech Stack**
 
+Python • Machine Learning • React • Node.js
 
+## 💡 Currently Exploring
 
-## 💡 What I'm Working On
 
 ```
-🔭  Pushing the boundaries of RAG — multi-modal retrieval & agentic document workflows
-🌱  Deepening expertise in LLM fine-tuning and inference optimization  
-🤝  Open to collaborating on AI/ML research and applied systems
+🔭 Building practical AI-powered applications
 
+🌱 Improving deep learning and computer vision skills
+
+⚡ Exploring efficient ML model deployment
+
+🤝 Open to collaborating on AI and software engineering projects
 ```
 
 ---
@@ -145,7 +183,7 @@
 
 <br/><br/>
 
-*"The best way to predict the future is to build it — with intelligence."*
+*"Building technology that solves real-world problems.."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
