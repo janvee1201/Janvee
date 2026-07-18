@@ -98,14 +98,14 @@
 - Focused on reducing manual effort through intelligent automation.
 
 **Tech Stack**
-
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=AI APIs"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Integration-6D28D9?style=flat-square"/>
 
 </p>
 
@@ -138,12 +138,14 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Pytorch"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=OpenCV"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=PCA"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=CNN"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Transformers"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=SVM"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PCA-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNN-1E88E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transformers-FFB000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SVM-00897B?style=flat-square"/>
 
 </p>
 
@@ -171,10 +173,10 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 </p>
 
@@ -201,10 +203,12 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=Python"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=React"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Machine Learning"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 </p>
 
