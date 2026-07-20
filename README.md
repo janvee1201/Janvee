@@ -78,6 +78,7 @@
 ## 🔥 Featured Projects
 
 <div align="center">
+  
 ## 📋 AuditPilot — AI-Powered Audit Automation
 </div>
 
